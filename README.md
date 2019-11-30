@@ -1,4 +1,4 @@
-# RGB-Color-Guessing-Game
+# RGB-Color-Game
 
 A guessing game to enhance your ability to identify RGB format colors!
 
