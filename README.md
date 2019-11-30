@@ -4,7 +4,7 @@ A guessing game to enhance your ability to identify RGB format colors!
 
 <strong>HOW TO PLAY:</strong>
 
-Read the color (in RGB( #, #, #) format) at the top of the screen and choose which color tile matches!
+Read the color in RGB( #, #, #) format at the top of the screen and choose which color tile matches!
 
 Has a normal mode (6 choices) and an easy mode (3 choices).
 
