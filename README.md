@@ -2,7 +2,7 @@
 
 A guessing game to enhance your ability to identify RGB format colors!
 
-Deployed: https://niterich.github.io/RGB-Color-Game/
+Deployed: https://color-gen-game.herokuapp.com/
 
 Technologies used: JavaScript
 
